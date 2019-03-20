@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>force</key>
+	<integer>1</integer>
+	<key>weight</key>
+	<integer>100</integer>
+	<key>place</key>
+	<integer>20</integer>
+	<key>roleName</key>
+	<string>Robot</string>
+	<key>roleType</key>
+	<string>knight</string>
+	<key>sizeScale</key>
+	<real>0.3</real>
+	<key>atkEffectFrame</key>
+	<integer>9</integer>
+	<key>HP_INIT</key>
+	<integer>616</integer>
+	<key>HP_GROW</key>
+	<integer>84</integer>
+	<key>SP_INIT</key>
+	<integer>400</integer>
+	<key>SP_GROW</key>
+	<integer>20</integer>
+	<key>HPR_INIT</key>
+	<integer>78</integer>
+	<key>HPR_GROW</key>
+	<integer>5</integer>
+	<key>SPR_INIT</key>
+	<integer>50</integer>
+	<key>SPR_GROW</key>
+	<integer>4</integer>
+	<key>ATK_INIT</key>
+	<integer>66</integer>
+	<key>ATK_GROW</key>
+	<integer>4</integer>
+	<key>ATKSPD_INIT</key>
+	<integer>625</integer>
+	<key>ATKSPD_GROW</key>
+	<integer>29</integer>
+	<key>ATKRANGE_INIT</key>
+	<integer>175</integer>
+	<key>ATKRANGE_GROW</key>
+	<integer>0</integer>
+	<key>MAG_INIT</key>
+	<integer>10</integer>
+	<key>MAG_GROW</key>
+	<integer>0</integer>
+	<key>ARM_INIT</key>
+	<integer>36</integer>
+	<key>ARM_GROW</key>
+	<integer>3</integer>
+	<key>ORI_INIT</key>
+	<integer>32</integer>
+	<key>ORI_GROW</key>
+	<integer>2</integer>
+	<key>SPD_INIT</key>
+	<integer>340</integer>
+	<key>SPD_GROW</key>
+	<integer>0</integer>
+	<key>HATE_SCALE</key>
+	<integer>1000</integer>
+</dict>
+</plist>
